@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jun 29 14:14:49 2017
-
-@author: yu
-"""
-
 '''
 Algorithm: https://en.wikipedia.org/wiki/Methods_of_computing_square_roots#Continued_fraction_expansion
 '''
