@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jun 24 19:32:28 2017
-
-@author: yu
-"""
 import numpy as np
 
 mat_size = 4
