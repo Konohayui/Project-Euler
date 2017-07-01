@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jun 25 13:54:47 2017
-
-@author: yu
-"""
-
 '''
 P_j and P_k are pentagonal number.
 Let S be the sum of P_j and P_k,
