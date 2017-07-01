@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jun 27 14:09:15 2017
-
-@author: yu
-"""
-
 import itertools as itert
 import random
 
