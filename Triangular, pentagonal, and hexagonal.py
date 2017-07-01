@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jun 25 17:12:59 2017
-
-@author: yu
-"""
-
 '''
 Test for Pentagonal number: 
     1) n = (sqrt(24x+1)+1)/6 where x is a pentagonal number
