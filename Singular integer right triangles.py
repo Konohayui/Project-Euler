@@ -9,7 +9,7 @@ def gcd(a,b):
     return a
 
 for m in range(2, int((L)**0.5)+1):
-    for n in range(m-1, 0, -1):
+    for n in range(1, m):
         if gcd(m,n) == 1:
             x, y, z = m**2 - n**2, 2*m*n, m**2 + n**2
             s = x + y + z
