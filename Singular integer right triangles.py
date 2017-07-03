@@ -17,8 +17,9 @@ for m in range(2, int((L)**0.5)+1):
             while d*s <= L:
                 l = d*s
                 if l in triples:
-                    if sorted([x*d, y*d, z*d]) not in triples[l]:
-                        triples[l] += [[x*d, y*d, z*d]]
+                    t = sorted([x*d, y*d, z*d])
+                    if t not in triples[l]:
+                        triples[l] += [t]
                 else:
                     triples[l] = [sorted([x*d, y*d, z*d])]
                 d += 1
