@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jul  2 14:20:14 2017
-
-@author: yu
-"""
-
 # http://mathforum.org/dr.math/faq/faq.pythag.triples.html
 
 triples = {}
