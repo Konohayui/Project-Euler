@@ -20,7 +20,7 @@ for N in range(2, L + 1):
             period += 1
         if period % 2 != 0:
             odd_period += 1
-            odd_period_num = odd_period_num + [N]
+            odd_period_num += [N]
             
             
 print(odd_period)
