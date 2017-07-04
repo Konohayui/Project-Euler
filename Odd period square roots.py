@@ -16,7 +16,7 @@ for N in range(2, L + 1):
             m = d*s - m
             d = (N - m**2) // d
             s = (initial + m) // d
-            triplet = triplet + [(m, d, s)]
+            triplet += [(m, d, s)]
             period += 1
         if period % 2 != 0:
             odd_period += 1
