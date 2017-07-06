@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jul  5 14:56:08 2017
-
-@author: yu
-"""
-
 triangle1 = [[75],
              [95, 64],
              [17, 47, 82],
