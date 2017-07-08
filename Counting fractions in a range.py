@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jul  8 15:56:34 2017
-
-@author: yu
-"""
-
 def gcd(a,b):
     while b:
         a, b = b, a % b
