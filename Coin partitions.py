@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jul  9 17:36:29 2017
-
-@author: yu
-"""
-
 # https://en.wikipedia.org/wiki/Partition_(number_theory)#Generating_function
 
 divisor = 10**6
