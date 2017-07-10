@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jul  9 14:48:12 2017
-
-@author: yu
-"""
-
 # http://www.ccs.neu.edu/home/jaa/CS7800.12F/Information/Handouts/dyn_prog.pdf
 # http://interactivepython.org/courselib/static/pythonds/Recursion/DynamicProgramming.html
 
