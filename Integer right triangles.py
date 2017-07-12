@@ -6,7 +6,7 @@ def gcd(a,b):
 trip = {}
 P = 1000
 
-for m in range(3, 100):
+for m in range(2, 100):
     for n in range(1, m):
         if gcd(m,n) == 1:
             a = m**2 - n**2
