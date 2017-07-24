@@ -15,12 +15,12 @@ def chain(n):
             L.append(c)
             idx += 1
         else:
-            return(L)
+            return(L, idx + 1)
 
-result, limit, chain_len = 0, 1e7, 60
+result, limit, chain_len = 0, 1000000, 60
 
 for num in range(limit + 1):
-    if len(chain(num)) == chain_len:
+    if chain(num)[1] == chain_len:
         result += 1
         
 print(result)
